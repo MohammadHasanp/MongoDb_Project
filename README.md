@@ -5,6 +5,7 @@
 [![MongoDB](https://img.shields.io/badge/MongoDB-Driver%203.10.0-47A248?logo=mongodb&logoColor=white)](https://www.mongodb.com/docs/drivers/csharp/)
 [![Razor Pages](https://img.shields.io/badge/ASP.NET%20Core-Razor%20Pages-5C2D91?logo=dotnet&logoColor=white)](https://learn.microsoft.com/aspnet/core/razor-pages/)
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-5-7952B3?logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 A clean, production-style **ASP.NET Core 8 Razor Pages** web application demonstrating how to integrate **MongoDB** as the primary data store — featuring a **generic repository/service pattern**, **MongoDB transactions with sessions**, and a complete **CRUD** user management module.
 
@@ -25,6 +26,7 @@ A clean, production-style **ASP.NET Core 8 Razor Pages** web application demonst
 - [Application Pages](#-application-pages)
 - [How It Works](#-how-it-works)
 - [Extending the Project](#-extending-the-project)
+- [License](#-license)
 - [Author](#-author)
 
 ---
@@ -217,6 +219,10 @@ services.AddTransient<IProductServices, ProductServices>();
 ```
 
 That's it — you instantly get transactional `Insert`, `Update`, `Delete`, `GetById`, and `GetAll` for the new entity.
+
+## 📜 License
+
+This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
 
 ## 👤 Author
 
