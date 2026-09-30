@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../ArianTeam/AVA" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../Blog" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../Eshop" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../Eshop-RazorPage" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../HangfireProject" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../Lernify" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../RabbitMq/RabbitMqProject" vcs="Git" />
+  </component>
+</project>
