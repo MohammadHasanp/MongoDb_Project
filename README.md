@@ -220,10 +220,6 @@ services.AddTransient<IProductServices, ProductServices>();
 
 That's it — you instantly get transactional `Insert`, `Update`, `Delete`, `GetById`, and `GetAll` for the new entity.
 
-## 📜 License
-
-This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
-
 ## 👤 Author
 
 **Mohammad Hasan Pirayandeh** — [@MohammadHasanp](https://github.com/MohammadHasanp)
